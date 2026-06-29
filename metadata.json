@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Logístico Estocástico",
+  "description": "Gemelo digital para simulación estocástica de cadena de suministro con políticas de inventario interactivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
